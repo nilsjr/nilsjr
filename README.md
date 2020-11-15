@@ -6,11 +6,11 @@ I'm software engineer at [NanoGiants](http://www.nanogiants.de/)
 
 Passionate Android developer since 2012 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
 
-🌱 I’m currently learning compose & kotlin multiplatform
+🌱  I’m currently learning compose & kotlin multiplatform
 
-🏡 I'm currently working from my small farm on the beautiful Lower Rhine 🇩🇪
+🏡  I'm currently working from my small farm on the beautiful Lower Rhine 🇩🇪
 
-📫 How to reach me: [Twitter - @NilsJr](https://twitter.com/NilsJr)
+📫  How to reach me: [Twitter - @NilsJr](https://twitter.com/NilsJr)
 
 ![Nils's github stats](https://github-readme-stats.vercel.app/api?username=nilsjr&theme=prussian&show_icons=true&count_private=true&hide_title=true)
 
