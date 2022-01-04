@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm software engineer at [NanoGiants](http://www.nanogiants.de/) 
+I'm software engineer at [Fressnapf](http://www.fressnapf.de/) 
 
-<img src="https://we-are-hiring.cdn.personio.de/logos/6614/default/ff63e8b92ed25521cd2986829269a934.png" width="60" height="60">
+<img src="https://www.wakeup-communications.de/wp-content/uploads/2018/04/logo-fressnapf.png">
 
 Passionate Android developer since 2012 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
 
